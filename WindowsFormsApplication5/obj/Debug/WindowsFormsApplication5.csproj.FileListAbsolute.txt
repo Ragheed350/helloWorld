@@ -1,0 +1,20 @@
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Properties.Resources.resources
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Form1.resources
+c:\users\ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Delete_Doctors.resources
+C:\Users\Ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MaterialSkin.dll
+C:\Users\Ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\MetroFramework.dll
+C:\Users\Ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Main_Window.resources
+C:\Users\Ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Add_Patient.resources
+C:\Users\Ragheed\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Graduation_Patient.resources
+C:\Users\Ragheed\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Add_treatment.resources
+C:\Users\Ragheed\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Win.Show_patient.resources
+C:\Users\Ragheed\Documents\Visual Studio 2013\Projects 1\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Ragheed\Documents\Visual Studio 2013\Projects 1\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Ragheed\Documents\Visual Studio 2013\Projects 1\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
